@@ -1,0 +1,30 @@
+body{
+  padding: 0;
+  margin: 0;
+  background-image: url('City_Landscape_Background.jpg');
+  background-repeat: no-repeat;
+ background-position:center;
+}
+.halfwidth{
+  width: 40%;
+  float: left;
+  margin-top: 10%;
+margin-left: 5%;
+color:wheat;
+font-size:20px;
+font-weight: 500;
+}
+.btn-design{
+  color:tomato;
+  margin: 5px;
+  border-radius:5px;
+  
+
+}
+
+
+
+
+
+
+
